@@ -88,7 +88,7 @@ menu:
       weight: 15
     - identifier: proyectos
       name: 📐Proyectos
-      url: /proyects/
+      url: /proyectos/
       weight: 20
     - identifier: archivos
       name: 🗄️ Archivos
@@ -97,11 +97,11 @@ menu:
 
     - identifier: categorías
       name: 🗺️Categorias
-      url: /categorias/
+      url: /categories/
       weight: 30
     - identifier: etiquetas
       name: 🏷️Etiquetas
-      url: /etiquetas/
+      url: /tags/
       weight: 35
     - identifier: buscar
       name: 🔎Buscar
