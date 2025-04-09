@@ -1,7 +1,6 @@
 ---
 baseURL: "https://altamentecapaces.org"
 title: Altamente Capaces
-paginate: 5
 theme: [PaperMod, reveal-hugo]
 
 enableRobotsTXT: true
@@ -11,6 +10,9 @@ buildExpired: false
 GoogleAnalytics: false
 
 relativeURLs: true
+
+pagination:
+  pagerSize: 5
 
 minify:
   disableXML: true
