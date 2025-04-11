@@ -17,7 +17,7 @@ Existe mucha literatura sobre las Altas Capacidades, aquí te dejamos una selecc
 ## Para padres
  
 - [Hijos con Altas Capacidades. El reto de educarlos. Autores: Olga Carmona y Alejandro Busto](https://amzn.to/4jwbU0J)
-- [Navegando hacia el talento: Porque el talento que no se cultiva, se pierde]. Autores: Javier Tourón](https://amzn.to/4cwKPbu)
+- [Navegando hacia el talento: Porque el talento que no se cultiva, se pierde. Autores: Javier Tourón](https://amzn.to/4cwKPbu)
   
 
 
