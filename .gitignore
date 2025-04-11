@@ -9,3 +9,6 @@ __pycache__/
 .vscode/
 .frontmatter/
 frontmatter.json
+node_modules/
+.hugo_build.lock
+public/
