@@ -9,7 +9,7 @@ tags:
   - mitos
 categories:
   - Información
-lastmod: 2025-08-15T20:29:28.585Z
+lastmod: 2025-08-15T20:38:54.988Z
 banner: img/mitos.png
 ---
 
