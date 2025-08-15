@@ -1,6 +1,6 @@
 ---
 lang: es
-title: 👩 Mujeres y altas capacidades: visibilizando el talento femenino
+title: 👩 Mujeres y altas capacidades, visibilizando el talento femenino
 layout: post
 date: 2025-09-05T09:00:00.000Z
 comments: true

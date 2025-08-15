@@ -1,6 +1,6 @@
 ---
 lang: es
-title: 💬 Altas capacidades y emociones: gestión y acompañamiento
+title: 💬 Altas capacidades y emociones, gestión y acompañamiento
 layout: post
 date: 2025-08-29T09:00:00.000Z
 comments: true
