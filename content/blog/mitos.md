@@ -9,7 +9,7 @@ tags:
   - mitos
 categories:
   - Información
-lastmod: 2025-04-21T21:28:27.865Z
+lastmod: 2025-08-15T20:29:28.585Z
 banner: img/mitos.png
 ---
 
@@ -47,6 +47,31 @@ Precisamente por pensar que “no necesitan apoyo”, muchos estudiantes con ACI
 
 ✅ **Realidad:**
 Algunos pueden cuestionar la autoridad, aburrirse fácilmente o parecer distraídos, pero eso no los hace “problemáticos”. Con el entorno adecuado, su curiosidad y pensamiento crítico se convierten en fortalezas.
+
+---
+
+---
+
+---
+
+### ❌ Mito 6: “Las altas capacidades solo se detectan en la infancia”
+
+✅ **Realidad:**
+Las altas capacidades pueden pasar desapercibidas durante años y descubrirse en la adolescencia o incluso en la adultez. No existe una edad única para identificarlas.
+
+---
+
+### ❌ Mito 7: “Las personas con altas capacidades no tienen dificultades emocionales”
+
+✅ **Realidad:**
+Pueden experimentar ansiedad, perfeccionismo, baja autoestima o sentirse incomprendidos. El acompañamiento emocional es fundamental.
+
+---
+
+### ❌ Mito 8: “Si no destaca en todo, no tiene altas capacidades”
+
+✅ **Realidad:**
+El talento puede ser específico. Una persona puede sobresalir en música, matemáticas o creatividad, pero no necesariamente en todas las áreas.
 
 ---
 
